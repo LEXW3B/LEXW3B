@@ -23,7 +23,7 @@
   
 ##
   
-<div> 
+<div style="display: inline_block"><br> 
   <a href="https://www.instagram.com/alexmanson13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
  <a href="https://discord.gg/KILLYNG-KIRA#8414" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
