@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/alexandre-evangelista-a337011aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>  
     
-   
+<a href="https://lexw3b-projeto-strata-html-css-js.netlify.app/" target="_blank">Site Portifólio</a>
   
   
   
