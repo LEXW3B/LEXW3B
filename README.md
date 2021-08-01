@@ -1,4 +1,4 @@
-### Olá, eu sou Alexandre 👍
+### Olá, sou Alexandre 👍
 
 🔭 Hoje estou desenvolvendo no front-end
 
