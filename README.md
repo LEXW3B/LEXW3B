@@ -35,7 +35,7 @@
     
 <a href="https://lexw3b-projeto-strata-html-css-js.netlify.app/" target="_blank">Site Portifólio 01</a>
 <hr>
-<a href="https://site-responsivo-teste-portifolio.netlify.app/" target="_blank">Site Portifólio 02</a>
+<a href="https://site-responsivo-teste-portifolio.netlify.app/" target="_blank">Site Portifólio responsivo 02</a>
   
   
   
