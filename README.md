@@ -31,14 +31,17 @@
 </div>  
   
 <hr>
-    
-<a href="https://lexw3b-projeto-strata-html-css-js.netlify.app/" target="_blank">Site Portifólio </a>
+  
+<a href="https://cartao-de-visita.netlify.app" target="_blank"> Cartão de Visita </a>
+<hr>   
+<a href="https://lexw3b-projeto-strata-html-css-js.netlify.app/" target="_blank"> Site Portifólio </a>
 <hr>
-<a href="https://site-responsivo-teste-portifolio.netlify.app/" target="_blank">Site Portifólio responsivo 01</a>
+<a href="https://site-responsivo-teste-portifolio.netlify.app/" target="_blank"> Site Portifólio responsivo 01 </a>
 <hr>
-<a href="https://range-hotel-responsive-portifolio.netlify.app/" target="_blank">Site Portifólio responsivo 02</a>  
+<a href="https://range-hotel-responsive-portifolio.netlify.app/" target="_blank"> Site Portifólio responsivo 02 </a>  
   <hr>
-<a href="https://site-portifolio-html-css-javascript-bootstrap.netlify.app/" target="_blank">Site Portifólio html css javascript bootstrap</a>
+<a href="https://site-portifolio-html-css-javascript-bootstrap.netlify.app/" target="_blank"> Site Portifólio html css javascript bootstrap </a>
+  
   
   
   
