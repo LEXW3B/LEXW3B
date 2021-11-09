@@ -1,10 +1,10 @@
 ### Olá, sou Alexandre 👍
 
-🔭 Hoje estou desenvolvendo no front-end
+🔭 Today I'm developing on the front-end
 
-🌱 Estudando Javascript, Bootstrap & Jquery
+🌱 Student Javascript, Bootstrap & Jquery
 
-😄 Pronomes: ele/dele
+😄 Pronomes: him his
 
 <div>
   <a href="https://github.com/LEXW3B">
