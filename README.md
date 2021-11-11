@@ -1,4 +1,4 @@
-### Hello, i'm Alexandre 👍
+### Hello, i'm Alexandre 👍<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
 
 🔭 Today I'm developing on the front-end
 
