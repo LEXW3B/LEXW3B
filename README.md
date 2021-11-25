@@ -32,7 +32,7 @@
   
 <hr>
   
-<a href="https://cartao-de-visita.netlify.app" target="_blank"> Cartão de Visita </a>
+<a href="https://cartao-de-visita.netlify.app/" target="_blank"> Cartão de Visita </a>
 <hr>   
 <a href="https://lexw3b-projeto-strata-html-css-js.netlify.app/" target="_blank"> Site Portifólio </a>
 <hr>
