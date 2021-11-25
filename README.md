@@ -40,7 +40,7 @@
 <hr>
 <a href="https://range-hotel-responsive-portifolio.netlify.app/" target="_blank"> Site Portifólio responsivo 02 </a>  
   <hr>
-<a href="https://site-portifolio-html-css-javascript-bootstrap.netlify.app/" target="_blank"> Site Portifólio html css javascript bootstrap </a>
+
   
   
   
