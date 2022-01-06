@@ -2,7 +2,7 @@
 
 🔭 Today I'm developing on the front-end
 
-🌱 Student Javascript, Bootstrap & Jquery
+🌱 Student Javascript, Bootstrap & Angular
 
 😄 Pronomes: him his
 
