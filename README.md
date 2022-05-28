@@ -5,7 +5,7 @@
 🌱 Student Javascript, Bootstrap & C
 
 😄 Pronomes: him his
-<!-- 
+
 <div>
   <a href="https://github.com/LEXW3B">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LEXW3B&show_icons=false&theme=merko&include_all_commits=true&count_private=true"/>
@@ -17,16 +17,14 @@
   <img align="center" alt="LEX-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="LEX-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="LEX-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="LEX-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="LEX-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LEX-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<!--   <img align="center" alt="LEX-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+<!--   <img align="center" alt="LEX-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+<!--   <img align="center" alt="LEX-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> -->
   <img align="center" alt="LEX-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LEX-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="LEX-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">  
+<!--   <img align="center" alt="LEX-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">   -->
   
-</div>  
-  
-##
+</div>
   
 <div style="display: inline_block"><br>  
   <a href="https://www.instagram.com/alexmanson13/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -44,11 +42,5 @@
 <a href="https://site-responsivo-teste-portifolio.netlify.app/" target="_blank"> Site Portifólio responsivo 01 </a>
 <hr>
 <a href="https://range-hotel-responsive-portifolio.netlify.app/" target="_blank"> Site Portifólio responsivo 02 </a>  
-  <hr>
- -->
-  
-  
-  
-  
-  
+<hr>
   
