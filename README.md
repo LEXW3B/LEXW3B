@@ -2,7 +2,7 @@
 
 🔭 Today I'm developing on the front-end
 
-🌱 Student Javascript, Bootstrap & C
+🌱 Student full-stack na Trybe
 
 😄 Pronomes: him his
 
