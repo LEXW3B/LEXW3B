@@ -1,8 +1,8 @@
 ### Hello, i'm Alexandre <img height="20em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
 
-🔭 Today I'm developing on the front-end
+🔭 Today I'm interested in web development
 
-🌱 Student full-stack na Trybe
+🌱 Student full-stack na Trybe, currently learning React, Redux and contextAPI
 
 😄 Pronomes: him his
 
