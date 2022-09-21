@@ -7,10 +7,10 @@
 😄 Pronomes: him his
 
 <div>
-  <a href="https://github.com/LEXW3B">
+  <!--<a href="https://github.com/LEXW3B">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LEXW3B&show_icons=false&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEXW3B&layout=compact&langs_count=7&theme=merko"/>
-</div>
+</div>-->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="LEX-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
