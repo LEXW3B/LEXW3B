@@ -1,4 +1,4 @@
-### Hello, i'm Alexandre <img height="20em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
+<!--### Hello, i'm Alexandre <img height="20em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
 
 🔭 Today I'm developing on the front-end
 
@@ -46,3 +46,4 @@
 <a href="https://range-hotel-responsive-portifolio.netlify.app/" target="_blank"> Site Portifólio responsivo 02 </a>  
 <hr>
   
+-->
