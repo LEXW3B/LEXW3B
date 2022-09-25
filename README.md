@@ -27,6 +27,9 @@
   <img align="center" alt="LEX-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">  
   
 </div>
+<br/>
+
+<div><a src="alexmanson12345@gmail.com">Email: Alexandre</a></div>
   
 <!--<div style="display: inline_block"><br>  
   <a href="https://www.instagram.com/alexmanson13/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
