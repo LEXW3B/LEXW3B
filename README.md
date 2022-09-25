@@ -30,7 +30,7 @@
 <br/>
 
 <div>
-  <a href="alexmanson12345@gmail.com" target="_blanck">Email: Alexandre</a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Email: Alexandre</a>
 </div>
   
 <!--<div style="display: inline_block"><br>  
