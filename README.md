@@ -44,7 +44,7 @@
 
  <!--    EMAIL & SITES    -->
 <div>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Email: Alexandre</a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Email: alexmanson12345@gmail.com</a>
 </div>
 <hr>  
 <a href="https://cartao-de-visita.netlify.app/" target="_blank"> Cartão de Visita </a>
