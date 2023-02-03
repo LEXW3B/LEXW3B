@@ -2,7 +2,7 @@
 
 🔭 Today I'm interested in web development
 
-🌱 Student full-stack na Trybe, currently learning React, Redux and contextAPI
+🌱 Student full-stack na Trybe, currently learning mongo_db
 
 😄 Pronomes: him his
 
