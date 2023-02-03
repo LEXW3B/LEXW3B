@@ -28,10 +28,6 @@
   
 </div>
 <br/>
-
-<div>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Email: Alexandre</a>
-</div>
   
 <div style="display: inline_block"><br>  
   <a href="https://www.instagram.com/alexmanson13/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -39,9 +35,12 @@
   <a href = "mailto:alexmanson12345@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>-->
   <a href="https://www.linkedin.com/in/alexandre-evangelista-a337011aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+<hr> 
   
-<hr>
-  
+<div>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Email: Alexandre</a>
+</div>
+<hr>  
 <a href="https://cartao-de-visita.netlify.app/" target="_blank"> Cartão de Visita </a>
 <hr>   
 <a href="https://lexw3b-projeto-strata-html-css-js.netlify.app/" target="_blank"> Site Teste </a>
