@@ -95,17 +95,19 @@
 <hr> 
 
  <!--    EMAIL & SITES    -->
-<div>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Email: alexmanson12345@gmail.com</a>
-</div>
-<hr>  
-<a href="https://cartao-de-visita.netlify.app/" target="_blank"> Cartão de Visita </a>
-<hr>   
-<a href="https://lexw3b-projeto-strata-html-css-js.netlify.app/" target="_blank"> Site Teste </a>
-<hr>
-<a href="https://site-responsivo-teste-portifolio.netlify.app/" target="_blank"> Site Teste responsivo 01 </a>
-<hr>
-<a href="https://range-hotel-responsive-portifolio.netlify.app/" target="_blank"> Site Teste responsivo 02 </a>  
-<hr>
+
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Email: alexmanson12345@gmail.com</a>
+  <hr>  
+    <a href="https://cartao-de-visita.netlify.app/" target="_blank"> Cartão de Visita </a>
+  <hr>   
+    <a href="https://lexw3b-projeto-strata-html-css-js.netlify.app/" target="_blank"> Site Teste </a>
+  <hr>
+    <a href="https://site-responsivo-teste-portifolio.netlify.app/" target="_blank"> Site Teste responsivo 01 </a>
+  <hr>
+    <a href="https://range-hotel-responsive-portifolio.netlify.app/" target="_blank"> Site Teste responsivo 02 </a>  
+  <hr>
+  <hr>
+    <a href="https://portifolio-alexandre-dev-web.netlify.app/" target="_blank"> Potifólio </a>  
+  <hr>
   
 
