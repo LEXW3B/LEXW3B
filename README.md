@@ -97,7 +97,7 @@
  <!--    EMAIL & SITES    -->
 
   <code>
-    <pre>alexmanson12345@gmail.com</pre>
+    alexmanson12345@gmail.com
   </code>
   
   <hr>  
