@@ -107,7 +107,6 @@
   <hr>
     <a href="https://range-hotel-responsive-portifolio.netlify.app/" target="_blank"> Site Teste responsivo 02 </a>  
   <hr>
-  <hr>
     <a href="https://portifolio-alexandre-dev-web.netlify.app/" target="_blank"> Potifólio </a>  
   <hr>
   
