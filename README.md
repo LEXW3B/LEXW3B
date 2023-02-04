@@ -96,9 +96,9 @@
 
  <!--    EMAIL & SITES    -->
 
-  <code>
+  <pre>
     alexmanson12345@gmail.com
-  </code>
+  </pre>
   
   <hr>  
     <a href="https://cartao-de-visita.netlify.app/" target="_blank"> Cartão de Visita </a>
