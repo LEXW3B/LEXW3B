@@ -96,7 +96,7 @@
 
  <!--    EMAIL & SITES    -->
 
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blanck">Email: alexmanson12345@gmail.com</a>
+  alexmanson12345@gmail.com
   <hr>  
     <a href="https://cartao-de-visita.netlify.app/" target="_blank"> Cartão de Visita </a>
   <hr>   
