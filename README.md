@@ -1,8 +1,8 @@
 ### Hello, i'm Alexandre <img height="20em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"/>
 
-🔭 Today I'm interested in web development
+🔭 Today I'm interested in web development.
 
-🌱 Student full-stack na Trybe, currently learning mongo_db
+🌱 FullStack Web Developer trained at Trybe.
 
 😄 Pronomes: him his
 
