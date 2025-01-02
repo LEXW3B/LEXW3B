@@ -96,7 +96,7 @@
 
  <!--    EMAIL & SITES    -->
 
-    alexmanson12345@gmail.com
+    alex.engsoftware@gmail.com
   
   <hr>  
     <a href="https://cartao-de-visita.netlify.app/" target="_blank"> Cartão de Visita </a>
